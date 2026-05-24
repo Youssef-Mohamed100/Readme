@@ -44,6 +44,11 @@ My main focus is building strong practical skills in ethical hacking, vulnerabil
 - Python for Automation
 - Java Basics
 - Bash/Shell Scripting for Automation
+- HTML
+- PHP
+- JavaScript
+- Databases	
+
 
 ### 🛠️ Security Tools
 - Nmap
