@@ -47,7 +47,7 @@ My main focus is building strong practical skills in ethical hacking, vulnerabil
 - HTML
 - PHP
 - JavaScript
-- Databases	
+- SQL / Database	
 
 
 ### 🛠️ Security Tools
